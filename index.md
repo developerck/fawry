@@ -66,3 +66,27 @@ Following are the screen shots of the process
 
 ** Installation
 
+![Upload Plugin](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/3.png)
+
+![Installation](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/4.png)
+
+![Installation](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/5.png)
+
+
+** Configuration
+![Configuration](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/10.png)
+
+![Configuration](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/8.png)
+
+** Payment
+
+![Payment](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/1.png)
+
+![payment](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/6.png)
+
+![payment](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/7.png)
+
+** Report
+
+![report](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/2.png)
+![report](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/9.png)
