@@ -1,31 +1,33 @@
 
-
+  
 
 ## **[Fawry](http://fawrypay.online/) Enrolment Plugin Moodle**
 
 **Features :-**
 
-● Support moodle version 3.5 and above (can be customised for moodle 2.7 as well)
+ - [x] Support moodle version 3.5 and above (can be customised for
+       moodle 2.7 as well)
+       
+  - [x] Pay By Card
+       
+  - [x]  Pay At Fawry [Offline Payment] and Auto Enrolment after success
+       full payment
 
-● Pay By Card
+- [x] Standard Moodle Enrolment after student pay for the course
 
-● Pay At Fawry [Offline Payment] and Auto Enrolment after success full payment
+- [x] Full Customizable
 
-● Standard Moodle Enrolment after student pay for the course
+- [x] Reports for Site Administrator for all transactions
 
-● Full Customizable
+- [x] Emails to student / teacher / admin
 
-● Reports for Site Administrator for all transactions
+- [x] Support Test and production environment
 
-● Emails to student / teacher / admin
+- [x] Support Moodle upgradation
 
-● Support Test and production environment
+- [x] Complete Video Guide for help
 
-● Support Moodle upgradation
-
-● Complete Video Guide for help
-
-● Capability Based Access
+- [x] Capability Based Access
 
 **For Site Admin :-**
 
@@ -59,34 +61,51 @@
 
 ● Enrolment Done.
 
-** Fawry is payment gateway provider in EGYPT : [http://fawrypay.online/](http://fawrypay.online/)
+> Fawry is payment gateway provider in EGYPT :
+> [http://fawrypay.online/](http://fawrypay.online/)
 
+*Following are the screenshot for the help*
 
-Following are the screen shots of the process
+**Installation**
 
-** Installation
+ - Step-1
 
 ![Upload Plugin](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/3.png)
 
+- Step-2
+
 ![Installation](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/4.png)
+
+- Step-3
 
 ![Installation](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/5.png)
 
 
-** Configuration
+**Configuration**
+- Configuration at Site admin level
+
 ![Configuration](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/10.png)
+
+- Configuration at Course level
 
 ![Configuration](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/8.png)
 
-** Payment
+**Payment**
+
+ - User Step to Pay
 
 ![Payment](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/1.png)
 
+- If one of the payment status is still pending.
+
 ![payment](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/6.png)
 
+- Final Pay
 ![payment](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/7.png)
 
-** Report
-
+**Report**
+- Report to Admin
 ![report](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/2.png)
+- Mail to admin in case of fail of payment
 ![report](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/9.png)
+
