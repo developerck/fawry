@@ -62,4 +62,7 @@
 ** Fawry is payment gateway provider in EGYPT : [http://fawrypay.online/](http://fawrypay.online/)
 
 
-Following is the video for this.
+Following are the screen shots of the process
+
+** Installation
+
