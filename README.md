@@ -1,5 +1,6 @@
 
   
+  
 
 ## **[Fawry](http://fawrypay.online/) Enrolment Plugin Moodle**
 
@@ -28,6 +29,8 @@
 - [x] Complete Video Guide for help
 
 - [x] Capability Based Access
+
+## Functional Process
 
 **For Site Admin :-**
 
@@ -64,7 +67,9 @@
 > Fawry is payment gateway provider in EGYPT :
 > [http://fawrypay.online/](http://fawrypay.online/)
 
-*Following are the screenshot for the help*
+## - Contact [HTTPLAB.ONLINE](HTTPLAB.ONLINE) for this
+
+## *Following are the screenshots of the process*
 
 **Installation**
 
@@ -104,8 +109,11 @@
 ![payment](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/7.png)
 
 **Report**
-- Report to Admin
-![report](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/2.png)
-- Mail to admin in case of fail of payment
-![report](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/9.png)
 
+- Report to Admin
+
+![report](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/2.png)
+
+- Mail to admin in case of fail of payment
+
+![report](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/9.png)
