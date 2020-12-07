@@ -2,7 +2,9 @@
   
   
 
-## **[Fawry](http://fawrypay.online/) Enrolment Plugin Moodle**
+## **[Fawry](http://fawrypay.online/)  || **[Paymob](https://www.paymob.com/)  Enrolment Plugin Moodle**
+
+-- fawry and paymob both are different payment gateway provider. We have already developed functionality for both including payment at kiosk.
 
 **Features :-**
 
@@ -66,6 +68,11 @@
 
 > Fawry is payment gateway provider in EGYPT :
 > [http://fawrypay.online/](http://fawrypay.online/)
+
+
+> Pyamob is payment gateway provider in EGYPT :
+> [(https://www.paymob.com/) ](https://www.paymob.com/)
+	* support CARD, Wallet, At Kiosk payment
 
 ## - Contact [HTTPLAB.ONLINE](HTTPLAB.ONLINE) for this
 
