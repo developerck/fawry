@@ -2,7 +2,7 @@
   
   
 
-## **[Fawry](http://fawrypay.online/) Enrolment Plugin Moodle**
+## **[Fawry](http://fawrypay.online/) || **[Paymob](https://www.paymob.com/) Enrolment Plugin Moodle**
 
 **Features :-**
 
@@ -66,6 +66,10 @@
 
 > Fawry is payment gateway provider in EGYPT :
 > [http://fawrypay.online/](http://fawrypay.online/)
+
+> Pyamob is payment gateway provider in EGYPT :
+> [(https://www.paymob.com/) ](https://www.paymob.com/)
+	* support CARD, Wallet, At Kiosk payment
 
 ## - Contact [HTTPLAB.ONLINE](HTTPLAB.ONLINE) for this
 
