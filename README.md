@@ -68,7 +68,7 @@
 > [(https://www.paymob.com/) ](https://www.paymob.com/)
 	* support CARD, Wallet, At Kiosk payment
 
-## - Contact [HTTPLAB.ONLINE](HTTPLAB.ONLINE) for this
+## - Contact developerck@gmail.com for this
 
 ## *Following are the guide of the process*
 
