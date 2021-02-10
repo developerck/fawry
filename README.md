@@ -68,7 +68,7 @@
 > [(https://www.paymob.com/) ](https://www.paymob.com/)
 	* support CARD, Wallet, At Kiosk payment
 
-## - Contact developerck@gmail.com for this
+## - Contact httplab2020@gmail.com for this
 
 ## *Following are the guide of the process*
 
