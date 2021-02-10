@@ -2,7 +2,7 @@
   
   
 
-## **[Fawry](http://fawrypay.online/) || **[Paymob](https://www.paymob.com/) Enrolment Plugin Moodle**
+## ** **[Paymob](https://www.paymob.com/) Enrolment Plugin Moodle**
 
 **Features :-**
 
@@ -11,7 +11,7 @@
        
   - [x] Pay By Card
        
-  - [x]  Pay At Fawry [Offline Payment] and Auto Enrolment after success
+  - [x]  Pay At Kiosk [Offline Payment] and Auto Enrolment after success
        full payment
 
 - [x] Standard Moodle Enrolment after student pay for the course
@@ -21,8 +21,6 @@
 - [x] Reports for Site Administrator for all transactions
 
 - [x] Emails to student / teacher / admin
-
-- [x] Support Test and production environment
 
 - [x] Support Moodle upgradation
 
@@ -60,12 +58,11 @@
 
 	○ Either By Card
 
-	○ Or At Fawry Pay Station
-
+	○ Or At Kiosk
+	
+	○ Or Mobile Wallet
 ● Enrolment Done.
 
-> Fawry is payment gateway provider in EGYPT :
-> [http://fawrypay.online/](http://fawrypay.online/)
 
 > Pyamob is payment gateway provider in EGYPT :
 > [(https://www.paymob.com/) ](https://www.paymob.com/)
