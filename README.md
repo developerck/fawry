@@ -70,51 +70,7 @@
 
 ## - Contact [HTTPLAB.ONLINE](HTTPLAB.ONLINE) for this
 
-## *Following are the screenshots of the process*
-
-**Installation**
-
- - Step-1
-
-![Upload Plugin](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/3.png)
-
-- Step-2
-
-![Installation](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/4.png)
-
-- Step-3
-
-![Installation](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/5.png)
+## *Following are the guide of the process*
 
 
-**Configuration**
-- Configuration at Site admin level
-
-![Configuration](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/10.png)
-
-- Configuration at Course level
-
-![Configuration](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/8.png)
-
-**Payment**
-
- - User Step to Pay
-
-![Payment](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/1.png)
-
-- If one of the payment status is still pending.
-
-![payment](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/6.png)
-
-- Final Pay
-![payment](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/7.png)
-
-**Report**
-
-- Report to Admin
-
-![report](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/2.png)
-
-- Mail to admin in case of fail of payment
-
-![report](https://raw.githubusercontent.com/developerck/fawry/master/assets/images/fawry/9.png)
+https://drive.google.com/file/d/1BfZm44VwPMcucEyY3L7-NqMCX1xitoyn/view?usp=sharing
